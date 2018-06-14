@@ -1,0 +1,6 @@
+{
+	"require": {
+		"php": "~7.1.0",
+		"cmfcmf/openweathermap-php-api": "^2.2"
+	}
+}
